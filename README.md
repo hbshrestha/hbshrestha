@@ -4,7 +4,7 @@ Hi there 👋 My name is Himalaya Bir Shrestha
 Energy and Climate Policy Analyst
 ---------------------------------
 
-* 🌍  I'm based in Berlin, Germany.
+* 🌍  I'm based in Bonn, Germany.
 * ⚡ I love math, programming, and data science.
 * ✏️ My main research interests include, but not limited to, power sector models, power system flexibility, and system integration of renewable energy sources.
 * ⚽️ I love watching football, travelling, and visiting museums.
