@@ -13,7 +13,7 @@ Energy and Climate Policy Analyst
 <p align="left">
   <a href="https://www.github.com/hbshrestha" target="_blank" rel="noreferrer"><img src="icons/Octocat.png" width="45" height="42" /></a>
   <a href="http://www.medium.com/@himalaya.birshrestha" target="_blank" rel="noreferrer"><img src="icons/Medium.png" width="45" height="42" /></a>
-  <a href="https://www.linkedin.com/in/hbshrestha/" target="_blank" rel="noreferrer"><img src="icons/LinkedIn.png" width="45" height="42" /></a>
+  #<a href="https://www.linkedin.com/in/hbshrestha/" target="_blank" rel="noreferrer"><img src="icons/LinkedIn.png" width="45" height="42" /></a>
   <a href="https://www.researchgate.net/profile/Himalaya-Shrestha" target="_blank" rel="noreferrer"><img src="icons/ResearchGate.png" width="45" height="42" /></a>
   
 </p>
