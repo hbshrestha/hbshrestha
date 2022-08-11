@@ -1,4 +1,4 @@
-Hi there 👋 My name is Himalaya Bir Shrestha
+Hi there 👋 I am Himalaya
 ======================================
 
 Energy and Climate Policy Analyst
