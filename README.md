@@ -1,7 +1,7 @@
 Hi there 👋 I am Himalaya
 ======================================
 
-Energy and Climate Policy Analyst
+Energy System Analyst
 ---------------------------------
 
 * 🌍  I'm based in Bonn, Germany.
