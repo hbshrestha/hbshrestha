@@ -12,7 +12,7 @@ Energy System Analyst
 ### Socials
 <p align="left">
   <a href="https://www.github.com/hbshrestha" target="_blank" rel="noreferrer"><img src="icons/Octocat.png" width="45" height="42" /></a>
-  <a href="http://www.medium.com/@himalaya.birshrestha" target="_blank" rel="noreferrer"><img src="icons/Medium.png" width="45" height="42" /></a>
+  <a href="http://www.medium.com/@hbshrestha" target="_blank" rel="noreferrer"><img src="icons/Medium.png" width="45" height="42" /></a>
   
 </p>
 
